@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1734204424 source:c:\users\hamza\desktop\data_projesi\server\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<winsock2.h>
+	<time.h>
+	<ctype.h>
+
